@@ -66,6 +66,7 @@
         bling (_        _^_EN
 .group c
         c        tS
+        ce       tS@
         ch       X
 // english:
         cy (_        _^_EN
@@ -78,6 +79,7 @@
 .group d
         d        d
      _) de       d@
+        de (ks   d'E
         de (ka   d'E
         de (kap  d@
    mer) de (ka   d'E
@@ -90,6 +92,7 @@
      e) e        _|E
     A_) e        _|E
         e (_     E
+     _) e (ngga  @
         eh (_    Eh
         en (_    En
   meng) e        E
@@ -97,6 +100,7 @@
   meng) e  (lo   E
   meng) em       '@m
   meng) e  (r    @
+
   
 // english:
         eak        (_        _^_EN
@@ -187,6 +191,7 @@
         
 .group j
         j        dZ
+        je       dZ@
 .group k
         k        k
         k (_     k
@@ -208,6 +213,7 @@
 .group m
         m        m
      _) me (@@   m@
+     _) me (ja   mE
      _) men (@P3 m@n
      _) meng (@P4 m@N
      _) mengem (@ m@N@m
@@ -220,6 +226,9 @@
      _) mempe (@    m@mp@
 .group n
         n        n
+        ne (t    nE
+        ne (r    n@
+   me)  ner      n@R
         ng       N
         ny       n^
 .group o
@@ -273,6 +282,7 @@
         t        t
         tel (a   t@l
      _) te       t@
+     _) te (ks   tE
      _) ter (CP3 t@R
      _) ter (ong tER
      _) ter (or  tER
@@ -310,5 +320,4 @@
      *) * (*
         ** 
     **) * (_         _::
-    _) .com     d0tk0m
 
