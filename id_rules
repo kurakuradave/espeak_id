@@ -59,6 +59,9 @@
         be (san  b'E
      _) ber (@P3 b@R
         be (n    b@
+    s@) be       b@
+    s@) bel (@   b@l
+    s@) bel (_   b@l
 // english:
         ble (_        _^_EN
         bled (_        _^_EN
@@ -231,6 +234,8 @@
    me)  ner      n@R
         ng       N
         ny       n^
+        nyen     n^En
+        nye      n^@
 .group o
         o        o
      o) o        _|o
@@ -254,6 +259,8 @@
         pe       p@
      _) peme     p@m@
      _) pe (@@   p@
+   rem) pet      pEt
+   rem) pet (_   pEt
 // english:
         py (_        _^_EN
 .group q
@@ -264,6 +271,7 @@
         r (K     R
      e) r (K     R
         rd (_        _^_EN
+        rem (pet REm
 .group s
         s        s
         ss       s
